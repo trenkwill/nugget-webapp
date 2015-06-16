@@ -1,0 +1,348 @@
+$inuit-enable-margins:                  true !default;
+$inuit-enable-margins--tiny:            true !default;
+$inuit-enable-margins--small:           true !default;
+$inuit-enable-margins--large:           true !default;
+$inuit-enable-margins--huge:            true !default;
+
+$inuit-enable-margins--negative:        true !default;
+$inuit-enable-margins--negative-tiny:   true !default;
+$inuit-enable-margins--negative-small:  true !default;
+$inuit-enable-margins--negative-large:  true !default;
+$inuit-enable-margins--negative-huge:   true !default;
+
+$inuit-enable-margins--none:            true !default;
+
+$inuit-enable-paddings:                 true !default;
+$inuit-enable-paddings--tiny:           true !default;
+$inuit-enable-paddings--small:          true !default;
+$inuit-enable-paddings--large:          true !default;
+$inuit-enable-paddings--huge:           true !default;
+
+$inuit-enable-paddings--none:           true !default;
+
+$yellow:                                #F8D027;
+$blue:                                  #34495E;
+$grey:                                  #999;
+
+// bower:scss
+@import "../../bower_components/inuit-clearfix/_trumps.clearfix.scss";
+@import "../../bower_components/inuit-defaults/_settings.defaults.scss";
+@import "../../bower_components/inuit-functions/_tools.functions.scss";
+@import "../../bower_components/inuit-layout/_objects.layout.scss";
+@import "../../bower_components/inuit-spacing/_trumps.spacing.scss";
+@import "../../bower_components/inuit-reset/_generic.reset.scss";
+@import "../../bower_components/inuit-media/_objects.media.scss";
+// endbower
+@import "../../bower_components/inuit-mixins/_tools.mixins.scss";
+
+@font-face {
+    font-family: 'Dosis';
+    src: url('../fonts/dosis-regular-webfont.eot');
+    src: url('../fonts/dosis-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/dosis-regular-webfont.woff2') format('woff2'),
+         url('../fonts/dosis-regular-webfont.woff') format('woff'),
+         url('../fonts/dosis-regular-webfont.ttf') format('truetype'),
+         url('../fonts/dosis-regular-webfont.svg#dosisregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'museo_sans500';
+    src: url('../fonts/exljbris_-_museosans-500-webfont.eot');
+    src: url('../fonts/exljbris_-_museosans-500-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/exljbris_-_museosans-500-webfont.woff2') format('woff2'),
+         url('../fonts/exljbris_-_museosans-500-webfont.woff') format('woff'),
+         url('../fonts/exljbris_-_museosans-500-webfont.ttf') format('truetype'),
+         url('../fonts/exljbris_-_museosans-500-webfont.svg#museo_sans500') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'museo_sans500_italic';
+    src: url('../fonts/exljbris_-_museosans-500italic-webfont.eot');
+    src: url('../fonts/exljbris_-_museosans-500italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/exljbris_-_museosans-500italic-webfont.woff2') format('woff2'),
+         url('../fonts/exljbris_-_museosans-500italic-webfont.woff') format('woff'),
+         url('../fonts/exljbris_-_museosans-500italic-webfont.ttf') format('truetype'),
+         url('../fonts/exljbris_-_museosans-500italic-webfont.svg#museo_sans500_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.text-center {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding:0;
+}
+
+body {
+    background: #eee;
+    font-family: "museo_sans500", Helvetica, Arial, sans-serif;
+    color: #333;
+    padding: 0;
+    margin: 0;
+}
+a {
+    color: $blue;
+    text-decoration: none;
+}
+
+.topheader {
+    font-family: "Dosis", "museo_sans500", Helvetica, Arial, sans-serif;
+    background: $yellow;
+    padding: 10px 0;
+    @extend .clearfix;
+    .topheader__title {
+        color: #fff;
+        font-weight: normal;
+    }
+    .topheader__logo {
+        float: left;
+        margin-left: 20px;
+        @media screen and (max-width: 700px) {
+            display: none;
+        }
+    }
+    .topheader__logo2 {
+        float: left;
+        margin-left: 20px;
+        @media screen and (min-width: 700px) {
+            display: none;
+        }
+    }
+    .add-trigger {
+        position: absolute;
+        left: 50%;
+        margin-left: -12px;;
+        top: 20px;
+    }
+    .options-trigger {
+        position: absolute;
+        right: 20px;
+        top: 20px;
+    }
+}
+
+.options {
+    background: #fff;
+    border-radius: 10px;;
+    @extend .u-p-;
+    box-shadow: 0 0 10px rgba(0,0,0,.3);
+    
+    display: none;
+    position: absolute;
+    right: 20px;
+    top:55px;
+}
+
+.adds {
+    background: #fff;
+    border-radius: 10px;;
+    @extend .u-p-;
+    box-shadow: 0 0 10px rgba(0,0,0,.3);
+    
+    display: none;
+    position: absolute;
+    left: 50%;
+    top:55px;
+    margin-left: -50px;
+}
+
+.main {
+    @media screen and (min-width: 700px) {
+       max-width: 600px;
+       margin:0 auto;
+    }
+    .main__title {
+        @extend .u-mt;
+        @extend .u-ml;
+        @include inuit-font-size(18px);
+    }
+}
+
+#most-shared, #by-site, #by-keyword {
+    margin-top: 30px;
+}
+
+.nugget-block {
+    background: #fff;
+    border-radius: 4px;
+    @extend .u-p;
+    @extend .u-m;
+    box-shadow: 0 0 3px rgba(0,0,0,.3);
+
+    .nugget-block__img {
+        display: block;
+        border-radius: 4px;
+    }
+
+    .nugget-block__title {
+        font-weight: normal;
+        @extend .u-mb--;
+        @include inuit-font-size(16px, 1.2);
+    }
+    .nugget-block__meta {
+        color: $grey;
+    }
+}
+
+.tweets {
+    .tweet {
+        @extend .u-mb;
+        .tweet__name {
+            @include inuit-font-size(14px, 1);
+            @extend .u-mb--;
+            color: lighten($grey, 20);
+        }
+        .tweet__text {
+            @include inuit-font-size(14px,1.2);
+            color: $grey;
+        }
+        .tweet__avatar {
+            width: 30px;
+            border-radius:4px;
+            @extend .u-mr-;
+        }
+        &:last-child {
+             @extend .u-mb0;
+        }
+    }
+}
+
+.fav {
+    position: absolute;
+    left: 10px;
+    z-index: 1;
+    @extend .u-mt--;
+    @extend .u-mr;
+}
+
+.list {
+    list-style: none;
+    .list__element {
+        @extend .clearfix;
+        padding: 10px;
+        min-height: 30px;
+        position: relative;
+        border-bottom: solid 1px $grey;
+    }
+    .list__title {
+        cursor: pointer;
+        float: left;
+        position: absolute;
+        left: 0;
+        right: 0;
+        height: 35px;
+        top: 0;
+        padding: 14px 0 0 40px;
+        @include inuit-font-size(16px);
+        &.active {
+            background: $yellow;
+        }
+    }
+}
+
+
+.avatars {
+    float:right;
+    position: absolute;
+    right: 10px;
+    z-index: 1;
+    .avatar {
+        margin-left: -10px;
+    }    
+}
+
+.avatar {
+    border-radius: 4px;
+    width: 30px;
+}
+
+.site-nuggets {
+    float: left;
+    display: none;
+    margin-top: 40px;
+}
+
+.tab-navigation {
+    font-family: "Dosis", "museo_sans500", Helvetica, Arial, sans-serif;
+    background: rgba(255, 255, 255, .95);
+    padding: 10px 0;
+    position: fixed;
+    bottom:0;
+    left: 0;
+    right: 0;
+    border-top:solid 1px #ccc;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style: none;
+    @media screen and (min-width: 700px) {
+       right: inherit;
+       bottom:inherit;
+       top: 95px;
+       left: 20px;
+       width: 100px;
+       height: 220px;
+       padding-top: 30px;
+       border:solid 1px #ccc;
+       border-radius: 6px;
+    }
+}
+
+.tab a { 
+    font-size: 14px; 
+    display: block; 
+    padding: 30px 10px 0; 
+    outline: none;
+    display: flex;
+    align-items: flex-start;
+    @media screen and (min-width: 700px) {
+       float: left;
+       clear:both;
+    }
+    &.active { 
+        color: $yellow;
+        font-weight: bold;
+        &.popularity-tab {
+            background: url(../images/popularity-on.png) no-repeat 50% 0;
+            background-size: 20px;
+        }
+        &.site-tab {
+            background: url(../images/site-on.png) no-repeat 50% 0;
+            background-size: 25px;
+        }
+        &.keyword-tab {
+            background: url(../images/keyword-on.png) no-repeat 50% 0;
+            background-size: 20px;
+        }
+    }
+    &.popularity-tab {
+        background: url(../images/popularity.png) no-repeat 50% 0;
+        background-size: 20px;
+    }
+    &.site-tab {
+        background: url(../images/site.png) no-repeat 50% 0;
+        background-size: 25px;
+    }
+    &.keyword-tab {
+        background: url(../images/keyword.png) no-repeat 50% 0;
+        background-size: 20px;
+    }
+}
+
+.browsehappy {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}

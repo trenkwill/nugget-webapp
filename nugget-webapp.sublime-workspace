@@ -1,0 +1,1770 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"x",
+				"xHeavy"
+			],
+			[
+				"X",
+				"xHeavy"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"pos",
+				"pos:f	position:fixed"
+			],
+			[
+				"trans",
+				"transform-origin"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border-",
+				"border-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"w",
+				"wid	width"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"media",
+				"media__img	 main.css"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"mini",
+				"miniSidebar"
+			],
+			[
+				"min",
+				"miniSidebar"
+			],
+			[
+				"web",
+				"webpage"
+			],
+			[
+				"to",
+				"toggleClass"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"po",
+				"pos:f	position:fixed"
+			],
+			[
+				"exte",
+				"extensionWidth"
+			],
+			[
+				"side",
+				"sidebarEl"
+			],
+			[
+				"c",
+				"children"
+			],
+			[
+				"slide",
+				"slideDown"
+			],
+			[
+				"rev",
+				"removeClass"
+			],
+			[
+				"ap",
+				"appendTo"
+			],
+			[
+				"sl",
+				"slideDown"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"clic",
+				"click"
+			],
+			[
+				"pa",
+				"parents"
+			],
+			[
+				"de",
+				"delay"
+			],
+			[
+				"dom",
+				"domain"
+			],
+			[
+				"domain",
+				"domains"
+			],
+			[
+				"parent",
+				"parent"
+			],
+			[
+				"flo",
+				"float--left	 main.css"
+			],
+			[
+				"flu",
+				"flush--bottom	 main.css"
+			],
+			[
+				"push",
+				"push-half--top	 main.css"
+			],
+			[
+				"gre",
+				"grey	 main.css"
+			],
+			[
+				"pus",
+				"push--bottom	 main.css"
+			],
+			[
+				"gri",
+				"grid__item	 main.css"
+			],
+			[
+				"grid",
+				"grid	 main.css"
+			],
+			[
+				"push-",
+				"push--left	 main.css"
+			],
+			[
+				"brand",
+				"brand-colour	 main.css"
+			],
+			[
+				"bran",
+				"brand-color	 main.css"
+			],
+			[
+				"wei",
+				"weight--semibold	 main.css"
+			],
+			[
+				"float-",
+				"float--left	 main.css"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"aut",
+				"author"
+			],
+			[
+				"author",
+				"authors"
+			],
+			[
+				"ma",
+				"mar	margin"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"m",
+				"mt	margin-top"
+			],
+			[
+				"push-hal",
+				"push-half--right	 main.css"
+			],
+			[
+				"floa",
+				"float--left	 main.css"
+			],
+			[
+				"bloc",
+				"block-list__link	 main.css"
+			],
+			[
+				"bx",
+				"bxslider"
+			],
+			[
+				"wind",
+				"windowWidth"
+			],
+			[
+				"bo",
+				"border-grey--bottom	 main.css"
+			],
+			[
+				"btn",
+				"btn--positive	 main.css"
+			],
+			[
+				"border",
+				"border-grey	 main.css"
+			],
+			[
+				"dis",
+				"display-block	 main.css"
+			],
+			[
+				"one-whole",
+				"one-whole	 main.css"
+			],
+			[
+				"svg",
+				"svg-src"
+			],
+			[
+				"lh",
+				"lh1	 main.css"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"st",
+				"style	Attr"
+			],
+			[
+				"bra",
+				"brand-face-2	 main.css"
+			],
+			[
+				"one",
+				"one-third	 main.css"
+			],
+			[
+				"two",
+				"two-thirds	 main.css"
+			],
+			[
+				"fl",
+				"flush	 main.css"
+			],
+			[
+				"con",
+				"conciergerie-privee.hbs"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"win",
+				"window"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"push--",
+				"push--top	 main.css"
+			],
+			[
+				"confiance-",
+				"confiance-conciergerie-immo.hbs"
+			],
+			[
+				"lap-ni",
+				"lap-nine-tenths	 main.css"
+			],
+			[
+				"lap-one",
+				"lap-one-half	 main.css"
+			],
+			[
+				"palm",
+				"palm-four-fifths	 main.css"
+			],
+			[
+				"one-",
+				"one-third	 main.css"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"contact-c",
+				"contact-conciergerie-immo.hbs"
+			],
+			[
+				"wid",
+				"wid	width"
+			],
+			[
+				"contact",
+				"contact-chasseurs.hbs"
+			],
+			[
+				"lay",
+				"layout"
+			],
+			[
+				"lau",
+				"layouts"
+			],
+			[
+				"callu",
+				"calluna-sans"
+			],
+			[
+				"green",
+				"green"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"cont",
+				"content--left"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"joy",
+				"joyZiadY"
+			],
+			[
+				"fr",
+				"friendsY"
+			],
+			[
+				"des",
+				"designerReadingY"
+			],
+			[
+				"ca",
+				"card15"
+			],
+			[
+				"co",
+				"collections"
+			],
+			[
+				"collectiono",
+				"collectionOffsetX"
+			],
+			[
+				"card",
+				"card14"
+			],
+			[
+				"nex",
+				"nextweb"
+			],
+			[
+				"me",
+				"medium"
+			],
+			[
+				"tec",
+				"techcrunch"
+			],
+			[
+				"med",
+				"mediumY"
+			],
+			[
+				"sma",
+				"smashingY"
+			],
+			[
+				"hac",
+				"hackernews"
+			],
+			[
+				"pan",
+				"pandodaily"
+			],
+			[
+				"ne",
+				"nextweb"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"all",
+				"allOn"
+			],
+			[
+				"car",
+				"card15"
+			],
+			[
+				"ge",
+				"generalCurve"
+			],
+			[
+				"face",
+				"facebookY"
+			],
+			[
+				"tw",
+				"twitterY"
+			],
+			[
+				"rea",
+				"readLaterY"
+			],
+			[
+				"ema",
+				"emailComposer"
+			],
+			[
+				"dra",
+				"dragCard"
+			],
+			[
+				"jo",
+				"joyZiad"
+			],
+			[
+				"ha",
+				"hackernewsY"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"cardT",
+				"cardTechnews"
+			],
+			[
+				"textbox",
+				"textboxTechNews"
+			],
+			[
+				"tex",
+				"textbox2"
+			],
+			[
+				"chec",
+				"checkEmpty1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git ch",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remvoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"CSS Completions: Delete Cache"
+			],
+			[
+				"updat",
+				"GitHub: Update Gist"
+			],
+			[
+				"update",
+				"GitHub: Update Gist"
+			],
+			[
+				"update ",
+				"GitHub: Update Gist"
+			],
+			[
+				"github",
+				"GitHub: Open Gist in Editor"
+			],
+			[
+				"githu",
+				"GitHub: Public Gist from Selection"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ghist",
+				"GitHub: Copy Starred Gist to Clipboard"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"git br",
+				"Git: Change Branch"
+			],
+			[
+				"git ",
+				"Git: Fetch"
+			],
+			[
+				"git chec",
+				"Git: Change Branch"
+			],
+			[
+				"gi",
+				"Git: Status"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"sy",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn",
+				"Set Syntax: HTML"
+			],
+			[
+				"yn",
+				"Set Syntax: NAnt Build File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"syn h",
+				"Set Syntax: HTML"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pac in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 583.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/williamhutter/Sites/nugget-webapp"
+	],
+	"file_history":
+	[
+		"/Users/williamhutter/Library/Caches/Cleanup At Startup/Transmit/BC21BE1E-9EAC-49AF-8DB5-724560855A93/page-foret.php",
+		"/Users/williamhutter/Library/Caches/Cleanup At Startup/Transmit/AB1A4A1D-5D6C-4F2E-B24E-69AD0952B890/_page.landing.scss",
+		"/Users/williamhutter/Library/Caches/Cleanup At Startup/Transmit/106759AA-B91A-4BCD-A327-2BEC74763A45/landing6.ctp",
+		"/Users/williamhutter/Library/Caches/Cleanup At Startup/Transmit/CE6A8B97-D64C-4FFE-BD27-EBE10F51DB5E/_base.nugget-page.scss",
+		"/Users/williamhutter/Sites/wimi2/style.scss",
+		"/Users/williamhutter/Sites/wimi2/htm.html",
+		"/Users/williamhutter/Sites/wimi/wp-config.php",
+		"/Users/williamhutter/Library/Caches/Cleanup At Startup/Transmit/C0F0F35B-5A21-4568-B002-CB06B8FB32DC/_page.landing.scss",
+		"/Users/williamhutter/Library/Caches/Cleanup At Startup/Transmit/181D4576-EEB3-4A25-AE4D-4512A7BB5C57/landing6.ctp",
+		"/Users/williamhutter/Library/Caches/Cleanup At Startup/Transmit/1A9EE0B8-E55A-4B4D-9F82-8641E43BAA19/_base.animations.scss",
+		"/Users/williamhutter/Library/Caches/Cleanup At Startup/Transmit/EBE830C0-B7E3-44D4-BB19-1F683B703BB0/landing6.ctp",
+		"/Users/williamhutter/Library/Caches/Cleanup At Startup/Transmit/415363ED-E549-4AD4-B09F-11DF0729528E/_page.landing.scss",
+		"/Users/williamhutter/Library/Caches/Cleanup At Startup/Transmit/7FD249C1-E3CC-4865-8F46-6DB58ADC67E4/_page.landing.scss",
+		"/Users/williamhutter/Library/Caches/Cleanup At Startup/Transmit/6FEF57F7-3854-4796-94B6-207A39545913/landing6.ctp",
+		"/Users/williamhutter/Library/Caches/Cleanup At Startup/Transmit/257CAF27-1A3C-4DC0-AAA9-D9764A0D94EB/landing.ctp",
+		"/Users/williamhutter/Library/Caches/Cleanup At Startup/Transmit/05D5AE3A-82C3-4F49-8E7F-93F81F59CC36/landing2.ctp",
+		"/Users/williamhutter/Library/Caches/Cleanup At Startup/Transmit/B6FB2110-FEA6-46FF-9BDB-7334392A4A31/landing6.ctp",
+		"/Users/williamhutter/Library/Caches/Cleanup At Startup/Transmit/80026048-DCF7-4E4C-B08D-88559D4F8BB2/_page.landing.scss",
+		"/Users/williamhutter/Library/Caches/Cleanup At Startup/Transmit/B3922234-9009-4B7A-BE9B-5F60FD3FFA22/landing5.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/layouts/landing.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/layouts/landing2.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/layouts/landing3.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/layouts/feedly.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/scripts/extension.js",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/elements/headjs.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/styles/_page.home.scss",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/styles/_base.animations.scss",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/styles/_vars.scss",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/styles/_components.extension.scss",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/styles/_page.styleguide.scss",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/styles/_page.welcome.scss",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/boards/styleguide.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/layouts/styleguide.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/layouts/landing4.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/boards/landing4.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/boards/landing2.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/boards/video.ctp",
+		"/Users/williamhutter/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/williamhutter/Sites/sapin-du-jura/wp-content/themes/sapin-du-jura/footer.php",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/layouts/extension_slider.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/elements/renderslider_card.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/api/renderslider.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/elements/renderslider_notification.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/layouts/welcome.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/config/core.php",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/styles/_base.nugget-page.scss",
+		"/Users/williamhutter/Sites/web_extensions/chrome/data/js/injector.js",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/cake/config/config.php",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/vendors/sendgrid-php/lib/swift/classes/Swift/Mime/CharsetObserver.php",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/composer.json",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/vendor/phpunit/phpunit-mock-objects/Tests/_files/AnInterface.php",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/vendor/composer/autoload_namespaces.php",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/api.yaml",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/vendor/phpunit/phpunit/Tests/TextUI/dependencies-isolation.phpt",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/vendor/phpunit/phpunit/Tests/TextUI/exception-stack.phpt",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/auth/Hybrid/Providers/OpenID.php",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/cake/libs/overloadable_php4.php",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/cake/libs/object.php",
+		"/Users/williamhutter/Sites/web_extensions/chrome/data/js/constants.js",
+		"/Users/williamhutter/Sites/web_extensions/chrome/build/nugget/data/js/injector.js",
+		"/Users/williamhutter/Sites/web_extensions/chrome/build/nugget/data/js/constants.js",
+		"/Users/williamhutter/Sites/web_extensions/chrome/data/css/inject.css",
+		"/Users/williamhutter/Sites/web_extensions/chrome/build/nugget/data/css/inject.css",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/styles/_components.header.scss",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/styles/_components.tabs.scss",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/elements/header_extensions.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/vendors/sendgrid-php/lib/swift/classes/Swift/Mime/HeaderSet.php",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/elements/header.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/elements/headcss.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/boards/help.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/cake/tests/test_app/plugins/test_plugin_two/vendors/shells/welcome.php",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/cake/tests/test_app/plugins/test_plugin/vendors/welcome.php",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/cake/tests/test_app/vendors/welcome.php",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/scripts/welcome.js",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/boards/welcome.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/models/whitelist.php",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/layouts/extensions.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/boards/extension.ctp",
+		"/var/folders/pq/x4nb_ht51_j5xk7qynfht0680000gn/T/sublime-sftp-browse-1426150825/mediatemple/nfs/c07/h02/mnt/101000/users/.home/domains/materiaux-en-lumiere.com/html/wp-content/themes/materiaux/library/css/style.css",
+		"/var/folders/pq/x4nb_ht51_j5xk7qynfht0680000gn/T/sublime-sftp-browse-1426150896/mediatemple/nfs/c07/h02/mnt/101000/users/.home/domains/materiaux-en-lumiere.com/html/wp-content/themes/materiaux/page-informations.php",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/libs/empty",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/Gruntfile.js",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/vendor/phpunit/phpunit/Tests/TextUI/group-isolation.phpt",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/vendor/facebook/php-sdk-v4/tests/GraphSessionInfoTest.php",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/vendor/phpunit/phpunit/Tests/Regression/GitHub/74/Issue74Test.php",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/styles/_tools.nugget-mixins.scss",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/elements/card.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/elements/extension_modal.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/vendors/sendgrid-php/SendGrid/MailInterface.php",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/elements/friends_cardgroup.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/styles/_components.cards.scss",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/styles/_buttons.scss",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/boards/admin_report.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/sftp-config.json",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/app_controller.php",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/api/renderbydomain.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/auth2.1.2/examples/signin_signup/application/views/users/complete_registration.html",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/elements/cardgroup.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/cake/tests/fixtures/article_featured_fixture.php",
+		"/var/folders/pq/x4nb_ht51_j5xk7qynfht0680000gn/T/sublime-sftp-browse-1425470503/nugget/home/william/Sites/nuggetapp/webroot/styles/_components.social-items.scss",
+		"/var/folders/pq/x4nb_ht51_j5xk7qynfht0680000gn/T/sublime-sftp-browse-1425466631/nugget/home/william/Sites/nuggetapp/webroot/styles/_components.extension.scss",
+		"/var/folders/pq/x4nb_ht51_j5xk7qynfht0680000gn/T/sublime-sftp-browse-1425471892/nugget/home/william/Sites/nuggetapp/views/boards/welcome.ctp",
+		"/var/folders/pq/x4nb_ht51_j5xk7qynfht0680000gn/T/sublime-sftp-browse-1425466689/nugget/home/william/Sites/nuggetapp/views/elements/renderslider_card.ctp",
+		"/var/folders/pq/x4nb_ht51_j5xk7qynfht0680000gn/T/sublime-sftp-browse-1425466672/nugget/home/william/Sites/nuggetapp/views/api/renderslider.ctp",
+		"/var/folders/pq/x4nb_ht51_j5xk7qynfht0680000gn/T/sublime-sftp-browse-1425470846/nugget/home/william/Sites/nuggetapp/views/elements/social_twitter.ctp",
+		"/var/folders/pq/x4nb_ht51_j5xk7qynfht0680000gn/T/sublime-sftp-browse-1425233661/mediatemple/nfs/c07/h02/mnt/101000/users/.home/domains/materiaux-en-lumiere.com/html/wp-content/themes/materiaux/library/css/style.css",
+		"/var/folders/pq/x4nb_ht51_j5xk7qynfht0680000gn/T/sublime-sftp-browse-1425233177/mediatemple/nfs/c07/h02/mnt/101000/users/.home/domains/materiaux-en-lumiere.com/html/wp-content/themes/materiaux/index.php",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/controllers/boards_controller.php",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/bower_components/inuit-list-ui/_objects.list-ui.scss",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/settings/view.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/topsites/admin_index.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/styles/_objects.nugget-buttons.scss",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/styles/_trumps.nugget-helpers.scss",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/layouts/homepage.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/boards/view.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/layouts/default.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/layouts/boards.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/styles/_components.site-headings.scss",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/bower.json",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/GenericEvent.php",
+		"/Users/williamhutter/Sites/acheter-louer/app/js/main.js",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/styles/_objects.arrows.scss",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/styles/_components.modals.scss",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/styles/main.scss",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/webroot/styles/_components.sidebar.scss",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/views/layouts/developer.ctp",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/config/routes.php",
+		"/Users/williamhutter/Sites/nugget/twitter_top_shares/bower_components/inuit-spacing/_trumps.spacing.scss"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/williamhutter/Sites/nugget/, *.js",
+			"/Users/williamhutter/Sites/nugget/",
+			"/Users/williamhutter/Sites/nugget/, *.ctp",
+			"/Users/williamhutter/Sites/nugget/, *.scss",
+			"/Users/williamhutter/Sites/nugget/, *.ctp",
+			"/Users/williamhutter/Sites/nugget/",
+			"/Users/williamhutter/Sites/nugget/, *.ctp",
+			"/Users/williamhutter/Sites/nugget/, *.scss",
+			"/Users/williamhutter/Sites/nugget/, *.ctp",
+			"/Users/williamhutter/Sites/nugget/",
+			"/Users/williamhutter/Sites/nugget, *.scss",
+			"/Users/williamhutter/Sites/nugget, *.ctp, -*.scss",
+			"/Users/williamhutter/Sites/nugget, *.ctp",
+			"/Users/williamhutter/Sites/nugget",
+			"/Users/williamhutter/Sites/nugget, *.ctp",
+			"/Users/williamhutter/Sites/nugget",
+			"/Users/williamhutter/Sites/twitter_top_shares/",
+			"/Users/williamhutter/Sites/web_extension/",
+			"/Users/williamhutter/Sites/nugget/twitter_top_shares/",
+			"/Users/williamhutter/Sites/nugget/twitter_top_shares/views",
+			"/Users/williamhutter/Sites/nextly-twitter",
+			"/Users/williamhutter/Sites/web_extensions",
+			"/Users/williamhutter/Sites/nextly-twitter",
+			"/Users/williamhutter/Sites/decouvrir-2/wp-content/themes/decouvirlemonde/library/scss",
+			"/Users/williamhutter/Sites/auguste-et-elodie/",
+			"/Users/williamhutter/Sites/auguste-et-elodie/bower_components/inuitcss"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"u-2/",
+			"500px",
+			"fonts",
+			"desktop-warning",
+			"else ",
+			"xEasy",
+			"data('counter')",
+			"$",
+			";",
+			".val()",
+			"// result = $element",
+			"easy",
+			"parseInt(",
+			"sum();",
+			"xEasy",
+			"$",
+			"data('counter')",
+			"var $(this) = $(this);",
+			"$element",
+			"this",
+			"$('.x-easy-row .countInput')",
+			"$(this)",
+			"val",
+			"Easy",
+			"counter",
+			"var initial = $(this).val();",
+			"<tr>",
+			"sizeInput",
+			"\"S\"",
+			"s",
+			"S",
+			"0",
+			"<td><a href=\"#\" class=\"btn-add\">+</a></td>",
+			"/td>",
+			"height",
+			"cwd",
+			"../",
+			"description",
+			"8",
+			"7",
+			"6",
+			"5",
+			"4",
+			"3",
+			"2",
+			"1",
+			"scale(0)  ",
+			"home__footer",
+			"top-blo",
+			"248",
+			"gamma",
+			"arrow",
+			"anima",
+			"start",
+			"logo",
+			"2100",
+			"data-1900",
+			"data-2100",
+			"-50px",
+			"logo",
+			"1",
+			"avatar",
+			"250",
+			"5",
+			"curs",
+			"5px",
+			"400",
+			"1000",
+			"le(0.4)",
+			"data-1000=\"",
+			"data-100",
+			";\">",
+			" opacity:0;\">",
+			"data-25",
+			"900",
+			"25px",
+			"scale",
+			"!important",
+			"0.2",
+			"absolute",
+			"-20px",
+			"width: 33px;",
+			"opacity:1;",
+			"opacity:0;",
+			"pacity:0;\">",
+			"0=",
+			"200",
+			"700",
+			"otate(-10deg)",
+			"scale(0)",
+			"width=\"400\" ",
+			">",
+			"<div class=\"dot-in\"></div>",
+			"{\n            position: absolute;",
+			"200",
+			"300",
+			"data-400",
+			"400",
+			"y:1; transform: scale(0);\"",
+			"opacity",
+			"450",
+			"home__screenshot-1",
+			"width=\"150\"",
+			"300",
+			"5",
+			"left",
+			"scroll",
+			"500",
+			"-260px",
+			".digger-man-text-1",
+			"home__screenshot-2",
+			"zoom",
+			"3px $y",
+			"3px",
+			"30px",
+			"width: 30px;",
+			"-30px",
+			"30px",
+			"yellow-rect",
+			"home__screenshot-3",
+			"home__slider",
+			"home__screenshot-3",
+			"download-btn-home",
+			"id=\"",
+			"ipad",
+			"yellow-",
+			"yellow-li",
+			".browser-world {"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Nuggetapp",
+			"Most shared stories",
+			"block"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 98.0
+	},
+	"output.git-checkout":
+	{
+		"height": 92.0
+	},
+	"output.git-pull":
+	{
+		"height": 92.0
+	},
+	"output.sftp":
+	{
+		"height": 55.0
+	},
+	"pinned_build_system": "",
+	"project": "nugget-webapp.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"downl",
+				"twitter_top_shares/views/elements/downloadlinks.ctp"
+			],
+			[
+				"hea",
+				"twitter_top_shares/views/elements/headjs.ctp"
+			],
+			[
+				"_pag",
+				"twitter_top_shares/webroot/styles/_page.home.scss"
+			],
+			[
+				"main",
+				"twitter_top_shares/webroot/styles/main.scss"
+			],
+			[
+				"landin",
+				"twitter_top_shares/views/layouts/landing.ctp"
+			],
+			[
+				"anima",
+				"twitter_top_shares/webroot/styles/_base.animations.scss"
+			],
+			[
+				"home",
+				"twitter_top_shares/views/layouts/homepage.ctp"
+			],
+			[
+				"_page",
+				"twitter_top_shares/webroot/styles/_page.home.scss"
+			],
+			[
+				"landing3",
+				"twitter_top_shares/views/layouts/landing3.ctp"
+			],
+			[
+				"_pa",
+				"twitter_top_shares/webroot/styles/_page.home.scss"
+			],
+			[
+				"landing",
+				"twitter_top_shares/views/layouts/landing2.ctp"
+			],
+			[
+				"headc",
+				"twitter_top_shares/views/elements/headcss.ctp"
+			],
+			[
+				"_base",
+				"twitter_top_shares/webroot/styles/_base.nugget-page.scss"
+			],
+			[
+				"feedl",
+				"twitter_top_shares/views/layouts/feedly.ctp"
+			],
+			[
+				"landing2",
+				"twitter_top_shares/views/layouts/landing2.ctp"
+			],
+			[
+				"vide",
+				"twitter_top_shares/views/layouts/video.ctp"
+			],
+			[
+				"ani",
+				"twitter_top_shares/webroot/styles/_base.animations.scss"
+			],
+			[
+				"feed",
+				"twitter_top_shares/views/boards/feedly.ctp"
+			],
+			[
+				"welc",
+				"twitter_top_shares/webroot/styles/_page.welcome.scss"
+			],
+			[
+				"headcs",
+				"twitter_top_shares/views/elements/headcss.ctp"
+			],
+			[
+				"headjs",
+				"twitter_top_shares/views/elements/headjs.ctp"
+			],
+			[
+				"homep",
+				"twitter_top_shares/views/layouts/homepage.ctp"
+			],
+			[
+				"homescs",
+				"twitter_top_shares/webroot/styles/_page.home.scss"
+			],
+			[
+				"header",
+				"twitter_top_shares/webroot/styles/_components.header.scss"
+			],
+			[
+				"we",
+				"twitter_top_shares/views/layouts/welcome.ctp"
+			],
+			[
+				"page.",
+				"twitter_top_shares/webroot/styles/_base.nugget-page.scss"
+			],
+			[
+				"welcom",
+				"twitter_top_shares/views/boards/welcome.ctp"
+			],
+			[
+				"",
+				"twitter_top_shares/webroot/styles/_page.welcome.scss"
+			],
+			[
+				"headerscs",
+				"twitter_top_shares/webroot/styles/_components.header.scss"
+			],
+			[
+				"welcome",
+				"twitter_top_shares/webroot/scripts/welcome.js"
+			],
+			[
+				"exten",
+				"twitter_top_shares/webroot/scripts/extension.js"
+			],
+			[
+				"extenscs",
+				"twitter_top_shares/webroot/styles/_components.extension.scss"
+			],
+			[
+				"extenjs",
+				"webroot/scripts/extension.js"
+			],
+			[
+				"mixin",
+				"webroot/styles/_tools.nugget-mixins.scss"
+			],
+			[
+				"_card",
+				"views/elements/renderslider_card.ctp"
+			],
+			[
+				"vars",
+				"webroot/styles/_vars.scss"
+			],
+			[
+				"welcomescs",
+				"webroot/styles/_page.welcome.scss"
+			],
+			[
+				"core",
+				"config/core.php"
+			],
+			[
+				"extens",
+				"webroot/scripts/extension.js"
+			],
+			[
+				"render",
+				"views/api/renderslider.ctp"
+			],
+			[
+				"extensscs",
+				"webroot/styles/_components.extension.scss"
+			],
+			[
+				"card",
+				"views/elements/renderslider_card.ctp"
+			],
+			[
+				"but",
+				"webroot/styles/_objects.nugget-buttons.scss"
+			],
+			[
+				"welscs",
+				"webroot/styles/_page.welcome.scss"
+			],
+			[
+				"extension",
+				"webroot/scripts/extension.js"
+			],
+			[
+				"anim",
+				"webroot/styles/_base.animations.scss"
+			],
+			[
+				"extescs",
+				"webroot/styles/_components.extension.scss"
+			],
+			[
+				"hel",
+				"webroot/styles/_trumps.nugget-helpers.scss"
+			],
+			[
+				"butt",
+				"webroot/styles/_objects.nugget-buttons.scss"
+			],
+			[
+				"board",
+				"controllers/boards_controller.php"
+			],
+			[
+				"heascs",
+				"webroot/styles/_components.site-headings.scss"
+			],
+			[
+				"head",
+				"views/elements/headjs.ctp"
+			],
+			[
+				"boar",
+				"controllers/boards_controller.php"
+			],
+			[
+				"welcomj",
+				"webroot/scripts/welcome.js"
+			],
+			[
+				"wel",
+				"views/boards/welcome.ctp"
+			],
+			[
+				"homepage.c",
+				"views/layouts/homepage.ctp"
+			],
+			[
+				"homepa",
+				"views/layouts/homepage.ctp"
+			],
+			[
+				"home.scs",
+				"webroot/styles/_page.home.scss"
+			],
+			[
+				"button",
+				"bower_components/inuit-buttons/_objects.buttons.scss"
+			],
+			[
+				"mains",
+				"webroot/styles/main.scss"
+			],
+			[
+				"route",
+				"config/routes.php"
+			],
+			[
+				"view/layouts/dev",
+				"views/layouts/developer.ctp"
+			],
+			[
+				"base.pa",
+				"bower_components/inuit-page/_base.page.scss"
+			],
+			[
+				"main.scs",
+				"webroot/styles/main.scss"
+			],
+			[
+				"spacin",
+				"bower_components/inuit-spacing/_trumps.spacing.scss"
+			],
+			[
+				"help",
+				"webroot/styles/_trumps.nugget-helpers.scss"
+			],
+			[
+				"inuit",
+				"bower_components/inuit-spacing/_trumps.spacing.scss"
+			],
+			[
+				"var",
+				"webroot/styles/_vars.scss"
+			],
+			[
+				"width",
+				"bower_components/inuit-widths/_trumps.widths.scss"
+			],
+			[
+				"settin",
+				"views/layouts/settings.ctp"
+			],
+			[
+				"helpers",
+				"webroot/styles/_trumps.nugget-helpers.scss"
+			],
+			[
+				"header_",
+				"views/elements/header_not_logged_in.ctp"
+			],
+			[
+				"admin_in",
+				"views/topsites/admin_index.ctp"
+			],
+			[
+				"grid.scs",
+				"webroot/styles/_objects.nugget-grid.scss"
+			],
+			[
+				"cardscs",
+				"webroot/styles/_components.cards.scss"
+			],
+			[
+				"nugget-pa",
+				"webroot/styles/_base.nugget-page.scss"
+			],
+			[
+				"helscs",
+				"webroot/styles/_trumps.nugget-helpers.scss"
+			],
+			[
+				"sidescs",
+				"webroot/styles/_components.sidebar.scss"
+			],
+			[
+				"mute",
+				"views/elements/mute_list.ctp"
+			],
+			[
+				"favote",
+				"views/elements/favorite_list.ctp"
+			],
+			[
+				"arrow",
+				"webroot/styles/_objects.arrows.scss"
+			],
+			[
+				"exten.scs",
+				"webroot/styles/_components.extension.scss"
+			],
+			[
+				"buttons",
+				"webroot/styles/_buttons.scss"
+			],
+			[
+				"modal",
+				"webroot/styles/_components.modals.scss"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"headin",
+				"webroot/styles/_components.site-headings.scss"
+			],
+			[
+				"side.sc",
+				"webroot/styles/_components.sidebar.scss"
+			],
+			[
+				"card.scs",
+				"webroot/styles/_components.cards.scss"
+			],
+			[
+				"mix",
+				"/var/folders/pq/x4nb_ht51_j5xk7qynfht0680000gn/T/sublime-sftp-browse-1421069227/nugget/home/william/Sites/nuggetapp/webroot/styles/_tools.nugget-mixins.scss"
+			],
+			[
+				"time",
+				"views/elements/time_window_picker.ctp"
+			],
+			[
+				"side",
+				"views/elements/sidebar.ctp"
+			],
+			[
+				"socia",
+				"views/elements/social_twitter.ctp"
+			],
+			[
+				"rend",
+				"views/api/renderslider.ctp"
+			],
+			[
+				"po",
+				"views/boards/populator.ctp"
+			],
+			[
+				"pop",
+				"views/boards/populator.ctp"
+			],
+			[
+				"frien",
+				"views/elements/friends_cardgroup.ctp"
+			],
+			[
+				"cardgr",
+				"views/elements/cardgroup.ctp"
+			],
+			[
+				"car",
+				"views/elements/card.ctp"
+			],
+			[
+				"coun",
+				"models/counter.php"
+			],
+			[
+				"doma",
+				"views/elements/domain_fav.ctp"
+			],
+			[
+				"fav",
+				"views/elements/favorite_list.ctp"
+			],
+			[
+				"exte",
+				"views/layouts/extension_slider.ctp"
+			],
+			[
+				"ex",
+				"views/elements/extension_modal.ctp"
+			],
+			[
+				"social",
+				"views/elements/social_twitter.ctp"
+			],
+			[
+				"main.sc",
+				"webroot/styles/main.scss"
+			],
+			[
+				"sideb",
+				"views/elements/sidebar.ctp"
+			],
+			[
+				"cards",
+				"controllers/boards_controller.php"
+			],
+			[
+				"domain",
+				"views/elements/domain_fav.ctp"
+			],
+			[
+				"boards",
+				"views/layouts/boards.ctp"
+			],
+			[
+				"layou",
+				"views/layouts/boards.ctp"
+			],
+			[
+				"main.",
+				"webroot/scripts/main.js"
+			],
+			[
+				"renders",
+				"views/api/renderslider.ctp"
+			],
+			[
+				"_var",
+				"app/styles/_vars.scss"
+			],
+			[
+				"foo",
+				"app/templates/partials/footer.hbs"
+			],
+			[
+				"lay",
+				"app/templates/layouts/layout.hbs"
+			],
+			[
+				"footer",
+				"app/templates/partials/footer.hbs"
+			],
+			[
+				"_vars",
+				"app/styles/_vars.scss"
+			],
+			[
+				"varia",
+				"wp-content/themes/decouvirlemonde/library/scss/partials/_variables.scss"
+			],
+			[
+				"func",
+				"wp-content/themes/decouvirlemonde/functions.php"
+			],
+			[
+				"vara",
+				"wp-content/themes/decouvirlemonde/library/scss/partials/_variables.scss"
+			],
+			[
+				"wp-con",
+				"wp-config.php"
+			],
+			[
+				"_form",
+				"wp-content/themes/decouvirlemonde/library/scss/modules/_forms.scss"
+			],
+			[
+				"main.js",
+				"app/scripts/main.js"
+			],
+			[
+				"main.j",
+				"app/scripts/main.js"
+			],
+			[
+				"gr",
+				"Gruntfile.js"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"widt",
+				"bower_components/inuitcss/generic/_widths.scss"
+			],
+			[
+				"grun",
+				"library/grunt/gruntfile.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/nugget/twitter_top_shares/nugget.sublime-workspace"
+			],
+			[
+				"egg",
+				"~/Sites/soft-boiled-eggs.com/soft-boiled-eggs.com.sublime-project"
+			],
+			[
+				"thema",
+				"~/Sites/thema-design/wp-content/themes/themadesign/thema.sublime-workspace"
+			],
+			[
+				"the",
+				"~/Sites/thema-design/wp-content/themes/themadesign/thema.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
