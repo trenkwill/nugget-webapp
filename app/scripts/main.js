@@ -12,6 +12,34 @@ $(document).ready(function(){
 		$(".options").slideToggle("fast");
 	});
 
+	$(".add-trigger").click(function(){
+		$(".adds").slideToggle("fast");
+	});
+
+	$(".show-site-input").click(function(){
+		$(".input-site").toggle();
+		$(".btn--add").toggle();
+		$(".adds").slideToggle("fast");
+		// $("body").addClass("close-input");
+	});
+	$(".show-topic-input").click(function(){
+		$(".input-topic").toggle();
+		$(".btn--add").toggle();
+		$(".adds").slideToggle("fast");
+		// $("body").addClass("close-input");
+	});
+
+	// $(".close-input").click(function (e){
+
+	//     var container = $(".topheader");
+
+	//     if (!container.is(e.target) && container.has(e.target).length === 0){
+	//         container.hide();
+	//     }
+	//     alert("yo");
+	// });
+	
+
 
 	// Instance the tour
 	var tour = new Tour({

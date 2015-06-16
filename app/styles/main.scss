@@ -132,6 +132,41 @@ a {
     }
 }
 
+.form-add {
+    position:relative;
+    max-width: 550px;
+    margin-top: 4px;
+    position: absolute;
+    width: 100%;
+    left: 50%;
+    margin-left: -280px;
+}
+
+.input-site, .input-topic {
+    display: none;
+    width: 100%;
+    max-width: 550px;
+    height: 25px;
+    padding: 5px;
+    position: absolute;
+    left: 50%;
+    margin-left: -280px;
+    border-radius: 6px;
+    outline: none;
+    border: solid 1px darken($yellow, 10);
+    font-family: "Dosis", "museo_sans500", Helvetica, Arial, sans-serif;
+    @include inuit-font-size(18px);
+}
+
+.btn--add {
+    display: none;
+    position: absolute;
+    right: -3px;
+    top: 4px;
+    padding: 4px;
+    font-family: "Dosis", "museo_sans500", Helvetica, Arial, sans-serif;
+}
+
 .options {
     background: #fff;
     border-radius: 10px;;
